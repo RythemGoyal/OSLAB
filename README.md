@@ -1,5 +1,4 @@
 Operating System Lab Programs for 5th Sem BTech Cse SMIT
-Programs :
 1. File Handling using C
 2. FCFS Scheduling
 3. SJF Scheduling
